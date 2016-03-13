@@ -24,8 +24,12 @@
   "dependencies": {
     "good": "6.6.0",
     "good-console": "5.3.1",
+    "h2o2": "5.1.0",
+    "handlebars": "4.0.5",
     "hapi": "13.0.0",
-    "inert": "3.2.0"
+    "inert": "3.2.0",
+    "rot13-transform": "1.0.0",
+    "vision": "4.0.1"
   },
   "devDependencies": {
     "babel-core": "6.6.5",
