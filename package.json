@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/newswim/makemehapi#readme",
   "dependencies": {
+    "boom": "3.1.2",
     "good": "6.6.0",
     "good-console": "5.3.1",
     "h2o2": "5.1.0",
